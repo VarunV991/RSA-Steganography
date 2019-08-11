@@ -1,2 +1,1 @@
-# RSA-Steganography
-A LSB Steganography with RSA encryption for more security
+# LSB_steganography_RSA_encryption
