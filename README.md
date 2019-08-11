@@ -4,4 +4,4 @@ LSB-Steganography is a steganography technique in which we hide messages inside 
 
 In this project, I have used RSA encryption to encrypt the message first and then hide the encryted message using LSB Stegnography.
 
-RSA encryption provides extra layer of security to hidden data.
+RSA encryption provides an extra layer of security to hidden data.
